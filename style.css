@@ -1,0 +1,66 @@
+.information
+{
+	height: 550px;
+	width: 50%;
+	
+	float: left;
+}
+.loginpage
+{
+	height: 550px;
+	width: 50%;
+	
+	float: right;
+}
+#footer_wrapper {
+    width: 100%;
+    clear: both;
+    float: left;
+    margin-top: 30px;
+    min-width: 995px;
+    background-color: white;
+    text-align: left;
+}
+
+#footer1 {
+    width: 980px;
+    margin: 0px auto;
+    padding: 0px;
+    border-bottom: 1px solid #E6E6E6;
+    height: 30px;
+    line-height: 30px;
+    font-size: 12px;
+    color: #848484;
+}
+
+    #footer1 a {
+        color: #365899;
+        display: inline;
+        margin-left: 10px;
+        text-decoration: none;
+    }
+
+        #footer1 a:hover {
+            text-decoration: underline;
+        }
+
+#footer2 {
+    width: 980px;
+    margin: 0px auto;
+    padding: 0px;
+    font-size: 12px;
+    color: #848484;
+}
+
+    #footer2 a {
+        color: #365899;
+        display: inline-block;
+        margin: 5px;
+        margin-left: 0px;
+        min-width: 80px;
+        text-decoration: none;
+    }
+
+        #footer2 a:hover {
+            text-decoration: underline;
+        }
